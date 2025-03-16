@@ -3,6 +3,7 @@ Saya Alifa Salsabila dengan NIM 2308138 mengerjakan soal Tugas Praktikum 3 dalam
 
 # Desain dan Alur
 ![Tp3dpbo drawio](https://github.com/user-attachments/assets/ee49e975-ec76-4a14-a059-b96d1f6a4a92)
+
 Komponen mewarisi atau menjadi parent dari Ram, Cpu, dan Harddrive. Lalu Kompoter itu memiliki Ram, Cpu, dan Harddrive. Penjualan dan Stok memiliki komputer karena jika komputer dihapus maka data penjualan dan stok juga dihapus, karena di penjualan terdapat data jual komputer dan di stok terdapat jumlah komputer yang ada. Lalu Penjualan dan Stok mewarisi atau menjadi parent dari Toko, karena Toko harus mengelola penjualan dan stok dari barang barang yang dijual.
 
 ## Alur Program Pengelolaan Toko Komputer

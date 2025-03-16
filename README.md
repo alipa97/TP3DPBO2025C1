@@ -8,24 +8,30 @@ Komponen mewarisi atau menjadi parent dari Ram, Cpu, dan Harddrive. Lalu Kompote
 
 ## Alur Program Pengelolaan Toko Komputer
 - Inisialisasi Komponen Komputer
+
 Peratama Program membuat objek CPU, RAM, dan Harddrive dengan spesifikasi tertentu.
 
 - Membuat Objek Komputer
+  
 Program membuat objek Komputer yang berisi CPU, RAM, dan Harddrive.
 Beberapa modul RAM bisa ditambahkan ke dalam daftar RAM komputer.
 
 - Membuat Objek Toko
+  
 Program membuat objek Toko yang menyimpan informasi stok komputer dan data penjualan.
 Stok komputer mencatat jumlah unit yang tersedia.
 Penjualan mencatat tanggal transaksi dan harga komputer.
 
 - Menampilkan Informasi Komputer
+
 Program mencetak detail spesifikasi komputer, termasuk CPU, RAM, dan Harddrive.
 
 - Menampilkan Informasi Toko
+
 Program mencetak nama toko, alamat, dan jumlah stok komputer yang tersedia.
 
 - Menampilkan Informasi Penjualan
+
 Program mencetak tanggal penjualan dan harga komputer yang dijual.
 Program Selesai
 

@@ -38,7 +38,8 @@ Program Selesai
 Setelah semua informasi ditampilkan, program selesai berjalan.
 
 # Output CPP
-![image](https://github.com/user-attachments/assets/adb2a1b2-6599-4f0f-be74-c7fbbbebff2d)
+![image](https://github.com/user-attachments/assets/16e7804d-5e91-42ed-8d65-d8498ca17a8d)
+
 
 # Output python
 ![image](https://github.com/user-attachments/assets/08ffbb27-ce56-4ccc-b89d-3a56e0ab76e0)
